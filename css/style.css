@@ -54,4 +54,100 @@
 .sectionOne .backImage .buttonBox span {
   color: #4e97fd;
 }
+
+.sectionTwo {
+  width: 99%;
+  height: 150vh;
+}
+
+.sectionTwo img {
+  margin-top: 100px;
+  margin-left: 55px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 700px;
+  height: 620px;
+}
+
+.sectionTwo .text-box {
+  margin-left: 30px;
+}
+
+.sectionTwo .text-box h2 {
+  margin-top: 100px;
+}
+
+.sectionTwo .text-box span {
+  color: #9b9bb5;
+  font-size: 18px;
+}
+
+.sectionTwo .boxes {
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.sectionTwo .boxes .leftSide {
+  width: 10%;
+}
+
+.sectionTwo .boxes .leftSide i {
+  display: inline;
+  color: #4e97fd;
+  font-size: 40px;
+}
+
+.sectionTwo .boxes .leftSide span {
+  margin-top: 20px;
+  color: #9b9bb5;
+  font-weight: 700;
+}
+
+.sectionTwo .boxes .leftSide h4 {
+  display: inline-block;
+}
+
+.sectionFour {
+  height: 100vh;
+  margin-top: 70px;
+}
+
+.sectionFour h2 {
+  text-align: center;
+}
+
+.sectionFour p {
+  text-align: center;
+  color: #b8b9b8;
+  font-size: 17px;
+  margin-bottom: 50px;
+}
+
+.sectionFour input {
+  border: 2px solid #eee;
+  padding: 5px 10px 5px 50px;
+  font-size: 18px;
+  line-height: 30px;
+  outline: 0;
+  display: block;
+  width: 100%;
+}
+
+.sectionFour .icon {
+  position: absolute;
+  left: 15px;
+  top: 0;
+  font-size: 25px;
+  color: #4b00ff;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
 /*# sourceMappingURL=style.css.map */
